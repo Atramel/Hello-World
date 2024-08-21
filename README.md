@@ -1,2 +1,2 @@
 # Hello-World
-General familiarization with repositories
+My name is Alec Tramel
